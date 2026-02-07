@@ -1,6 +1,10 @@
 # 🍏 MacCat - Universal macOS Build System
 
-Welcome to the **GoodFeelings** professional build and deployment suite for macOS. This ecosystem allows you to build, convert, sign, and deploy iOS tweaks directly to **PlayCover** (Mac Catalyst) with a single command.
+Welcome to the **MacCat** a build and deployment suite for macOS. This script allows you to build, convert, sign, and deploy iOS tweaks (Update) directly to **PlayCover** (Mac Catalyst) with a single command.
+
+
+![0207-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b21bffdd-22ba-4a22-97fa-6cbfe17003ea)
+
 
 ---
 
